@@ -118,7 +118,7 @@ module.exports = {
         .setColor(client.botconfig.EmbedColor)
         .setFooter(`Lele Meow`).setDescription(`${Commands.join("\n")}
   
-  DJ Meow`);
+  DJ Cucaracha`);
       if (!args) return interaction.send(Embed);
       else {
         let cmd =
